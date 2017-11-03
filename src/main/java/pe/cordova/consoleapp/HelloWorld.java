@@ -6,9 +6,9 @@ public class HelloWorld {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello World " + new EmailService().GenerateEmail("miguel","tcs.com"));
+        System.out.println("Welcome to Test Console App with Jenkins.");
 
-
+        System.out.println("This is a email generator Service for: " + new EmailService().GenerateEmail("miguel","tcs.com"));
 
     }
 
