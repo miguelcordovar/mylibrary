@@ -1,4 +1,4 @@
-package pe.cordova.sevice;
+package pe.cordova.service;
 
 public class EmailService {
 

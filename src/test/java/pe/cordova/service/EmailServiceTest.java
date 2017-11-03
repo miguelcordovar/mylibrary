@@ -1,11 +1,7 @@
-package pe.cordova.sevice;
+package pe.cordova.service;
 
 import org.junit.Assert;
 import org.junit.Test;
-
-import java.awt.*;
-
-import static org.junit.Assert.*;
 
 public class EmailServiceTest {
 

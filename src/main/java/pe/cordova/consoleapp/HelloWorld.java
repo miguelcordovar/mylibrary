@@ -1,6 +1,6 @@
 package pe.cordova.consoleapp;
 
-import pe.cordova.sevice.EmailService;
+import pe.cordova.service.EmailService;
 
 public class HelloWorld {
 
